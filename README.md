@@ -3,6 +3,9 @@
 ## Project Overview
 
 This project transforms the Corona Admin free admin template into a fully serverless web application leveraging AWS cloud services. By reimagining the original Bootstrap 5 admin dashboard, we've created a scalable, high-performance solution that eliminates server management overhead.
+##Project Architecture:
+<img width="833" alt="Screenshot 2024-12-02 at 5 59 25 PM" src="https://github.com/user-attachments/assets/81fcec89-f627-4b0e-bb01-93ae71d1467d">
+
 
 ## Original Template Credits
 
@@ -13,6 +16,7 @@ This project transforms the Corona Admin free admin template into a fully server
   - Material Design Icons
   - jQuery
   - Chart.js
+
 
 ## Serverless Architecture
 
